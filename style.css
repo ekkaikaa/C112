@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}
+
+.header_div {
+    background-color: rgba(0, 250, 154, 0.589);
+    color:mediumpurple ;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+background-color:paleturquoise;
+padding: 10px; 
+margin-top: 15px;
+border: 3px solid mistyrose;
+}
+
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
